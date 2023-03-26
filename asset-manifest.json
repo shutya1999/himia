@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/shutya1999/himia/static/css/main.12025bef.css",
-    "main.js": "/shutya1999/himia/static/js/main.8d0c5d4c.js",
-    "static/js/787.12d2d9e2.chunk.js": "/shutya1999/himia/static/js/787.12d2d9e2.chunk.js",
-    "static/media/LOGOfin3.mp4": "/shutya1999/himia/static/media/LOGOfin3.996697ae72252556d74e.mp4",
-    "static/media/logo.gif": "/shutya1999/himia/static/media/logo.2eced978f355bcfc5143.gif",
-    "static/media/arial-regular.ttf": "/shutya1999/himia/static/media/arial-regular.5afb1f7c7464ace62524.ttf",
-    "static/media/play.png": "/shutya1999/himia/static/media/play.1b891ef116318cc9f3c1.png",
-    "index.html": "/shutya1999/himia/index.html",
-    "main.12025bef.css.map": "/shutya1999/himia/static/css/main.12025bef.css.map",
-    "main.8d0c5d4c.js.map": "/shutya1999/himia/static/js/main.8d0c5d4c.js.map",
-    "787.12d2d9e2.chunk.js.map": "/shutya1999/himia/static/js/787.12d2d9e2.chunk.js.map"
+    "main.css": "/himia/static/css/main.48f6867a.css",
+    "main.js": "/himia/static/js/main.8222fa5c.js",
+    "static/js/787.12d2d9e2.chunk.js": "/himia/static/js/787.12d2d9e2.chunk.js",
+    "static/media/LOGOfin3.mp4": "/himia/static/media/LOGOfin3.996697ae72252556d74e.mp4",
+    "static/media/logo.gif": "/himia/static/media/logo.2eced978f355bcfc5143.gif",
+    "static/media/arial-regular.ttf": "/himia/static/media/arial-regular.5afb1f7c7464ace62524.ttf",
+    "static/media/play.png": "/himia/static/media/play.1b891ef116318cc9f3c1.png",
+    "index.html": "/himia/index.html",
+    "main.48f6867a.css.map": "/himia/static/css/main.48f6867a.css.map",
+    "main.8222fa5c.js.map": "/himia/static/js/main.8222fa5c.js.map",
+    "787.12d2d9e2.chunk.js.map": "/himia/static/js/787.12d2d9e2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12025bef.css",
-    "static/js/main.8d0c5d4c.js"
+    "static/css/main.48f6867a.css",
+    "static/js/main.8222fa5c.js"
   ]
 }
