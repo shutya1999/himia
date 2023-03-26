@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/himia/static/css/main.48f6867a.css",
-    "main.js": "/himia/static/js/main.2449b595.js",
+    "main.js": "/himia/static/js/main.573a3b4e.js",
     "static/js/787.12d2d9e2.chunk.js": "/himia/static/js/787.12d2d9e2.chunk.js",
     "static/media/LOGOfin3.mp4": "/himia/static/media/LOGOfin3.996697ae72252556d74e.mp4",
     "static/media/logo.gif": "/himia/static/media/logo.2eced978f355bcfc5143.gif",
@@ -9,11 +9,11 @@
     "static/media/play.png": "/himia/static/media/play.1b891ef116318cc9f3c1.png",
     "index.html": "/himia/index.html",
     "main.48f6867a.css.map": "/himia/static/css/main.48f6867a.css.map",
-    "main.2449b595.js.map": "/himia/static/js/main.2449b595.js.map",
+    "main.573a3b4e.js.map": "/himia/static/js/main.573a3b4e.js.map",
     "787.12d2d9e2.chunk.js.map": "/himia/static/js/787.12d2d9e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48f6867a.css",
-    "static/js/main.2449b595.js"
+    "static/js/main.573a3b4e.js"
   ]
 }
